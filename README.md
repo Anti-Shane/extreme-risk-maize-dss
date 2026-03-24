@@ -18,4 +18,4 @@ L'innovation réside dans le passage d'une gestion "Moyenne-Variance" à une ges
 * `requirements.txt` : Dépendances pour l'environnement de calcul.
 
 ---
-**Shane Tao ** - Candidat Make IT Agri 2026
+**Shane Tao** - Candidat Make IT Agri 2026
